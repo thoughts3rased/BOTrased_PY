@@ -1,7 +1,0 @@
-TO DO LIST:
-- Add tetris minigame
-- Add item shop, alongside items
-- Fix bug where users can level up twice
-- Implement some sort of rate limiting to prevent spam
-- Add mute administrative command
-- Add softban administrative command
