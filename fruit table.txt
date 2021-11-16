@@ -1,0 +1,9 @@
+fruit available: melon, pineapple, banana, grape, skull
+
+win conditions:
+MELON - MELON - MELON - 100x your bet
+GRAPES - GRAPES - GRAPES - 15X your bet
+BANANA - BANANA - BANANA - 8x your bet
+PINEAPPLE - PINEAPPLE - PINEAPPLE - 5x your bet
+FRUITX - FRUITX - ANY OTHER FRUIT - 1x your bet
+SKULL - SKULL - SKULL - lose bet x3 credits

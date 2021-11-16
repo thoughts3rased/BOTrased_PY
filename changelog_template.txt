@@ -1,0 +1,19 @@
+Changelog for XX/XX/XXXX (DD/MM/YYYY) - V X.X.X
+
+**__BUG FIXES:__**
+
+
+**__NEW CATEGORY:__**
+
+
+**__NEW COMMANDS:__**
+
+
+**__COMMAND CHANGES:__**
+
+
+**__SILENT CHANGES:__**
+
+
+
+**__KNOWN ISSUES:__**

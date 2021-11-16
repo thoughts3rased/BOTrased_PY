@@ -1,0 +1,30 @@
+BOT-SIDE ERRRORS (1XX):
+100 - Leaderboard Not Initialised: "BOTrased cannot show the leaderboard due to the fact that it has not initialised it yet."
+
+
+DATABASE-SIDE ERRORS (2XX):
+200 - No Profile: "BOTrased cannot perform this request due to the fact that you do not have a user profile. You should have one by now, so you should get in touch with the developer."
+201 - Database Unavailable: "BOTrased cannot perform this request due to the fact that the database is currently unreachable."
+202 - Bad Request: "BOTrased was not able to query the database correctly due to the request being invalid." 
+
+
+DISCORD-SIDE ERRORS (3XX):
+300 - Bot Missing Permissions: "BOTrased cannot perform this request due to the fact that it is missing the appropriate permissions."
+
+USER-SIDE ERRORS (4XX):
+400 - Bad Argument : <custom message per command>
+401 - User Missing Permissions: <custom message per command>
+402 - Invalid target: <custom message per command>
+403 - Missing Argument: <custom message per command>
+404 - Target Not Found:"The target user does not have a profile in the database."
+405 - Item Not Owned: <custom message per command>
+406 - Insufficient Credits: "You do not have enough credits to perform this action."
+407 - Daily Already Claimed:"You have already claimed your daily bonus too recently."
+408 - Item Not Found:"That item is invalid."
+409 - Already Own Item:"You already own that item."
+418 - I'm a teapot: "Sorry, I cannot execute your request to brew coffee because I am in fact permanently a teapot."
+
+API BASED ERRORS (5XX):
+500 (Weather) - Invalid Location: "Weather data for that location could not be found."
+501 (Osu!) - Osu Profile Not Found: "The specified Osu profile could not be found."
+502 (Osu!) - Recent Play Unobtainable: "BOTrased couldn't get the most recent play for that user."

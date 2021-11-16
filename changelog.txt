@@ -1,0 +1,15 @@
+Changelog for XX/XX/2021 (DD/MM/YYYY) - V 1.5.0
+
+**__FEATURED CHANGE:__**
+You can now customise the little colour strip that appears on the side of your profile when you use !profile. To do this, purchase the Profile Colour Change from the shop and then use !profilecolour alongside a hex colour code. You can do this once before the item is consumed and you have to purchase another, so make sure you pick your colour wisely!
+
+**__NEW COMMANDS:__**
++ !profilecolour added, for changing the colour of your !profile embed
+
+**__COMMAND CHANGES:__**
+
+**__KNOWN ISSUES:__**
+- Arabic and other RTL characters will reverse the order of elements on the leaderboard for that entry
+- BOTrased will continue to type even after sending the changelog into the channel
+- BOTrased will send its level up message twice if the user sends a message again too quickly
+
